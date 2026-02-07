@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ステラー・ダンス (ver.2024)",
+  "base_artist": "マグメル-MagMell-",
+  "createdAt": "2026-02-07T06:16:28.782100Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ステラー・ダンス (ver.2024)",
+      "artist": "マグメル-MagMell-",
+      "has_synced": false,
+      "path": "select/pl_01_ステラー・ダンス_(ver.2024)_マグメル-MagMell-.txt"
+    }
+  ]
+}
